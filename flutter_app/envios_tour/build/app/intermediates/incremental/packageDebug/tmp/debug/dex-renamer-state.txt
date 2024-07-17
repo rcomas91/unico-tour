@@ -1,0 +1,4 @@
+#Mon Jul 15 12:47:11 EDT 2024
+base.0=D\:\\SUPERACION\\flutter\\envios_tour\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
